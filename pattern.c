@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> #c based pattern program
 
 int main()
 {
